@@ -1,0 +1,18 @@
+export default {
+    black: "#000",
+    white: "#fff",
+    primary: "#3366ff",
+    secondary: "#0CD3B5",
+    dark: '#5a5a5a',
+    medium: '#d9d9d9',
+    light: '#f2f2f2',
+    channelOne: "#444ce3",
+    channelTwo: "#7e44e3",
+    channelThree: "#bb44e3",
+    channelFour: "#e344c8",
+    channelFive: "#e3448c",
+    channelSix: "#e3445c",
+    channelSeven: "#e36c44",
+    channelEight: "#e3b344",
+    channelNine: "#89e344",
+};
